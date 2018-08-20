@@ -1,0 +1,6 @@
+searchNews\control\HelloController.class
+searchNews\WebMvcConfig.class
+searchNews\service\GetResults.class
+searchNews\model\NewsInfos.class
+searchNews\control\SearchController.class
+searchNews\Main.class
